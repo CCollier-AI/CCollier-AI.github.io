@@ -44,6 +44,6 @@ I can’t count the number of times I’ve used LLMs and other AI-powered tools 
 
 It’s surprising how *effective* it can be.
 
-What I’m curious about
+## What I’m curious about
 
 I’d genuinely love to hear other people’s experiences of using AI as a critical thinking partner rather than just a “tool”—and what you’ve found most interesting about it.
