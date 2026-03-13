@@ -3,7 +3,7 @@ layout: default
 title: AI as a Critical Thinking Partner (Not Just a Tool)
 ---
 
-<What months of building and experimenting has changed for me
+What months of building and experimenting has changed for me
 
 I’m documenting what I learn building with AI alongside my MBA—focusing on practical decision‑making, product thinking, and real-world trade-offs, without sharing any proprietary employer or customer details.
 
@@ -51,4 +51,3 @@ What I’m curious about
 I’d genuinely love to hear other people’s experiences of using AI as a critical thinking partner rather than just a “tool”—and what you’ve found most interesting about it.
 
 This blog reflects personal learning and side projects (including work connected to my MBA). I don’t share proprietary systems, confidential data, customer details, or internal company information. Views are my own.
->
