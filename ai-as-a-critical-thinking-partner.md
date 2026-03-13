@@ -42,6 +42,7 @@ I can’t count the number of times I’ve used LLMs and other AI-powered tools 
 - Help me think more clearly when topics feel confusing
 - Reflect on things when they haven’t gone well
 ``
+
 It’s surprising how *effective* it can be.
 
 ---
