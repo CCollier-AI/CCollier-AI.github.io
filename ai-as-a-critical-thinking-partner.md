@@ -3,9 +3,7 @@ layout: default
 title: AI as a Critical Thinking Partner (Not Just a Tool)
 ---
 
-What months of building and experimenting has changed for me
-
-I’m documenting what I learn building with AI alongside my MBA—focusing on practical decision‑making, product thinking, and real-world trade-offs, without sharing any proprietary employer or customer details.
+# What months of building and experimenting has changed for me
 
 Those of you that know me well will know I live and breathe technology (and I have done from a really early age). But you’ll also know I love learning about pretty much anything—and I’m always drawn to whatever the hottest topic is at the moment.
 
