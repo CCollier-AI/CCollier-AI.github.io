@@ -17,7 +17,7 @@ All entirely reasonable things to be thinking (and worrying about).
 
 I’ve been experimenting with LLMs and agentic systems for some time now, and I’ve built some incredible things (in my opinion 😂) using a mix of tools and approaches. 
 When I first started using tools like ChatGPT, Claude, Perplexity, Midjourney, etc., I totally understood how addictive it can be to just say:
-	“I’ll just use <insert AI product here> for that.”
+	“I’ll just use insert AI product or service here for that.”
 	
 After countless hours over countless months—using numerous services and applications—one thing has stood out to me:
 
