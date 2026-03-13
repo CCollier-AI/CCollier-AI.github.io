@@ -47,5 +47,3 @@ It’s surprising how *effective* it can be.
 What I’m curious about
 
 I’d genuinely love to hear other people’s experiences of using AI as a critical thinking partner rather than just a “tool”—and what you’ve found most interesting about it.
-
-This blog reflects personal learning and side projects (including work connected to my MBA). I don’t share proprietary systems, confidential data, customer details, or internal company information. Views are my own.
