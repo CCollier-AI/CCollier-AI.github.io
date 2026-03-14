@@ -11,7 +11,7 @@ Right now, that topic is **AI**.
 
 Everyone seems to be talking about it.
 ``
-How AI can augment this, transform that, replace jobs here—and the worry that people become so reliant on it that they’re unable to critically think anymore. 
+How AI can augment this, transform that, replace jobs here - and the worry that people become so reliant on it that they’re unable to critically think anymore. 
 
 All entirely reasonable things to be thinking (and worrying about).
 
@@ -19,7 +19,7 @@ I’ve been experimenting with LLMs and agentic systems for some time now, and I
 When I first started using tools like ChatGPT, Claude, Perplexity, Midjourney, etc., I totally understood how addictive it can be to just say:
 	“I’ll just use *\<insert AI product or service here\>* for that.”
 	
-After countless hours over countless months-using numerous services and applications-one thing has stood out to me:
+After countless hours over countless months-using numerous services and applications - one thing has stood out to me:
 
 ## We don’t talk enough about how AI can help in everyday thinking
 
@@ -49,5 +49,5 @@ It’s surprising how *effective* it can be.
 
 ## What I’m curious about
 
-I’d genuinely love to hear other people’s experiences of using AI as a critical thinking partner rather than just a “tool”—and what you’ve found most interesting about it.
+I’d genuinely love to hear other people’s experiences of using AI as a critical thinking partner rather than just a “tool” - and what you’ve found most interesting about it.
 
