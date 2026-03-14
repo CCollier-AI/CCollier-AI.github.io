@@ -11,7 +11,7 @@ Right now, that topic is **AI**.
 
 Everyone seems to be talking about it.
 ``
-How AI can augment this, transform that, replace jobs here - and the worry that people become so reliant on it that they’re unable to critically think anymore. 
+How AI can augment this, transform that, replace jobs here, and the worry that people become so reliant on it that they’re unable to critically think anymore. 
 
 All entirely reasonable things to be thinking (and worrying about).
 
