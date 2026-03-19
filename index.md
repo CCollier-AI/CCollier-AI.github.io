@@ -14,5 +14,5 @@ I don’t share proprietary systems, customer data, or internal company informat
 ## Writing
 
 - [AI as a Critical Thinking Partner (Not Just a Tool)](/ai-as-a-critical-thinking-partner)
-- [When AI Made My Thinking Worse (But Also Made Me Realise Something)]
+- [When AI Made My Thinking Worse (But Also Made Me Realise Something)](/when-ai-made-my-thinking-worse)
 
