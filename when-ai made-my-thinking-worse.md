@@ -14,6 +14,7 @@ It’s often those failures that teach you the most. Or at least, that’s how t
 You might be thinking:
 > “Yes Chris, I know that, but how does that apply to AI making your thinking worse?”
 ---
+
 Well, when I first started using tools like ChatGPT, I was mostly using them for novelty. Things like:
 
 > “Make up a story with X people as characters.”
