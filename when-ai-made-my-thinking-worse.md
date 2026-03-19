@@ -12,12 +12,15 @@ Like most things in life (unless you’re incredibly gifted), learning new skill
 It’s often those failures that teach you the most. Or at least, that’s how the story usually goes.
 
 You might be thinking:
-> “Yes Chris, I know that, but how does that apply to AI making your thinking worse?”
+
+>“Yes Chris, I know that, but how does that apply to AI making your thinking worse?”
+
 ---
 
 Well, when I first started using tools like ChatGPT, I was mostly using them for novelty. Things like:
 
 > “Make up a story with X people as characters.”
+
 (with their permission, of course)
 
 My team and I would have a good laugh at how *strange* and impressive it felt that you could write a few sentences and **instantly** get a coherent story back.
